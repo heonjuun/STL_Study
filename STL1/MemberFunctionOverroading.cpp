@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 class Point
 {
@@ -34,4 +34,4 @@ int main()
 	p3.Print();
 
 	return 0;
-}
+}*/

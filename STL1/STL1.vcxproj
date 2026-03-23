@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BinaryOperator.cpp" />
+    <ClCompile Include="FunctionCalloperator.cpp" />
     <ClCompile Include="MemberFunctionOverroading.cpp" />
     <ClCompile Include="Operator.cpp" />
     <ClCompile Include="Overloading.cpp" />
