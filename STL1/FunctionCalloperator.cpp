@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 
 struct FuncObject
@@ -21,8 +21,8 @@ int main()
 
 	Print1(10); //함수 호출
 	Print2(20); //함수 포인터를 사용한 정수 출력
-	Print3(30); //함수 객체를 사용한 정수 출력
+	Print3(30); //함수 객체를 사용한 정수 출력 
 	
 
 	return 0;	
-}
+}*/

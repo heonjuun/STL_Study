@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayIndex.cpp" />
     <ClCompile Include="BinaryOperator.cpp" />
     <ClCompile Include="FunctionCalloperator.cpp" />
     <ClCompile Include="MemberFunctionOverroading.cpp" />
