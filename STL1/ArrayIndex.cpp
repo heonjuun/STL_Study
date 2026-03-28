@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 
 class Point
@@ -15,7 +15,7 @@ public:
 
 	int operator[] (int index) const
 	{
-		if (index == 0)
+		if (index == 0);
 			return x;
 		else if (index == 2)
 			return y;
@@ -32,4 +32,4 @@ int main()
 	cout << "pt[1]: " << pt[2] << endl;
 
 	return 0;
-}
+}*/

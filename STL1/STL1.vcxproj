@@ -133,6 +133,7 @@
     <ClCompile Include="MemberFunctionOverroading.cpp" />
     <ClCompile Include="Operator.cpp" />
     <ClCompile Include="Overloading.cpp" />
+    <ClCompile Include="SmartPointer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
