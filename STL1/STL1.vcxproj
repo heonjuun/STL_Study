@@ -101,7 +101,7 @@
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
@@ -130,10 +130,12 @@
     <ClCompile Include="ArrayIndex.cpp" />
     <ClCompile Include="BinaryOperator.cpp" />
     <ClCompile Include="FunctionCalloperator.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="MemberFunctionOverroading.cpp" />
     <ClCompile Include="Operator.cpp" />
     <ClCompile Include="Overloading.cpp" />
     <ClCompile Include="SmartPointer.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
