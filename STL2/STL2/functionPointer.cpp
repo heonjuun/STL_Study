@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 
 void Print(int n)
@@ -24,4 +24,4 @@ int main()
 	
 
 	return 0;
-}
+}*/
