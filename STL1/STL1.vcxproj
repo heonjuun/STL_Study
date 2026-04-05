@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="ArrayIndex.cpp" />
     <ClCompile Include="BinaryOperator.cpp" />
+    <ClCompile Include="CallBack.cpp" />
     <ClCompile Include="FunctionCalloperator.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MemberFunctionOverroading.cpp" />

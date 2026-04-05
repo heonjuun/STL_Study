@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 
 void Print(int n)
@@ -43,4 +43,4 @@ int main()
 
 	pf(50); // Point 클래스의 static Print 함수 호출
 	return 0;
-}
+}*/

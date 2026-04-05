@@ -45,5 +45,8 @@
     <ClCompile Include="StaticPointer0404.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CallBack.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
