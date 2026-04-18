@@ -1,4 +1,4 @@
-#include<functional>//function의 plus , minus header 사용
+/*#include<functional>//function의 plus , minus header 사용
 #include<iostream>
 using namespace std;
 
@@ -23,4 +23,4 @@ int main()
 	cout << Minus()(10, 20) << endl;
 	cout << minus<int>() (20, 19) << endl; // function의 함수 plus , minus소문자 사용
 	return 0;
-}
+}*/
